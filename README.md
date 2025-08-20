@@ -1,6 +1,5 @@
 Nicole2008-maker
 <h1 align="center">Olá, sejam bem-vindo 💕( •̀ ω •́ )y</h1>
-![HannibalLecterNbcHannibalGIF](https://github.com/user-attachments/assets/5ae3985b-3d7d-4026-b992-dd726bc360d6)
 
 ###
 
