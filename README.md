@@ -6,11 +6,10 @@ Nicole2008-maker
 <p align="left">Sou estudante em Desenvolvimento de Sistemas no SENAIde informática estou no 2 semestre. Além disso, tenho certificação ee AI-900 E PL-900. Minha localidade é São Paulo em São Caetano do Sul.</p>
 
 ###
-  ![download (1)](https://github.com/user-attachments/assets/7b2cc582-69c7-43fb-bceb-ebbfae17ca04)
-
 
 <div align="center">
-  <img src="https://seu-link-aqui.gif" width="800">
+  <img src="https://  ![download (1)](https://github.com/user-attachments/assets/7b2cc582-69c7-43fb-bceb-ebbfae17ca04)
+" width="800">
 </div>
 
 ###
