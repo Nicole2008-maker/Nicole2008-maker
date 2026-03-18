@@ -9,6 +9,12 @@ Nicole2008-maker
   ![download (1)](https://github.com/user-attachments/assets/7b2cc582-69c7-43fb-bceb-ebbfae17ca04)
 
 
+<div align="center">
+  <img src="https://seu-link-aqui.gif" width="800">
+</div>
+
+###
+
 <h2 align="center">Sobre mim</h2>
 
 ###
