@@ -8,7 +8,7 @@ Nicole2008-maker
 ###
 
 <div align="center">
-  <img src="![download (1)](https://github.com/user-attachments/assets/6079d580-1537-4739-b482-ea5ae4615492)" width="800">
+![download (1)](https://github.com/user-attachments/assets/6079d580-1537-4739-b482-ea5ae4615492) width="800">
 </div>
 
 ###
