@@ -3,7 +3,7 @@ Nicole2008-maker
 
 ###
 
-<p align="left">Sou estudante em Desenvolvimento de Sistemas no SENAIde informática estou no 2 semestre. Além disso, tenho certificação ee AI-900 E PL-900. Minha localidade é São Paulo em São Caetano do Sul.</p>
+<p align="left">Sou estudante em Desenvolvimento de Sistemas no SENAI, estudo informática estou no 3 semestre. Além disso, tenho certificação ee AI-900 E PL-900. Minha localidade é São Paulo em São Caetano do Sul.</p>
 
 ###
 
