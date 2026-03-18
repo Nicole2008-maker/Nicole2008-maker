@@ -7,7 +7,7 @@ Nicole2008-maker
 
 ###
 
-<div align="center">"![download (1)](https://github.com/user-attachments/assets/6079d580-1537-4739-b482-ea5ae4615492)"<div>
+![download (1)](https://github.com/user-attachments/assets/8169f8ea-290b-47f7-8c2b-4c87fff92460)
 
 ###
 
