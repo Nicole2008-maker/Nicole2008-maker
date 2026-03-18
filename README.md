@@ -1,5 +1,5 @@
 Nicole2008-maker
-<h1 align="center">Olá, sejam bem-vindo 💕( •̀ ω •́ )y</h1>
+<h1 align="center">Olá, sejam bem-vindo 💕(o゜▽゜)o☆</h1>
 
 ###
 
